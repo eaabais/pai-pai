@@ -1,0 +1,7 @@
+{
+  "name": "pai-pai",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}

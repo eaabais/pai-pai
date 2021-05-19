@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "pai-pai",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
